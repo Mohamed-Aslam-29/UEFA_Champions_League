@@ -148,6 +148,13 @@ This dashboard is built for:
 
 ---
 
+## 👤 Author
+
+[Mohamed Aslam](https://github.com/Mohamed-Aslam-29)  
+Data Analyst | Data Visualization Enthusiast | Excel Dashboard Specialist
+
+---
+
 ## 🤝 Let’s Connect!
 
 I’m deeply passionate about turning sports data into engaging stories. Want to chat about:
